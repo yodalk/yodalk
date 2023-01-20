@@ -28,7 +28,7 @@
 
 
 <!-- BADGETS - LINGUAGENS DE CONHECIMENTOS -->
-<h3>👨‍💻<strong>Conhecimento em linguagens:⤵️</strong></h3>
+<h3 align="center">Conhecimento nas linguagens⤵️</h3>
 <p align="left">
   <!-- FrontEnd -->  
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="18px"/>
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" height="18px" />
 </p>
 
-<h3>Conhecimento nas tecnologias:</h3>
+<h3 align="center">Conhecimento nas tecnologias⤵️</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="18px" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="18px" />
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="18px" />
 
   <!-- Contato -->
-  <h3>💌<strong>Onde você pode me encontrar:</strong>⤵️</h3>
+  <h3 align="center">Onde você me encontra ⤵️</h3>
   <h3 align="left">Streaming</h3>
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -69,14 +69,18 @@
     </a>
   </p>
 
-<!--📏LINE-->
+<!--📏LINE -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!--📏LINE END -->
 
-<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+
+<!--📊💬 STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+
 <p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
+  <img src="https://i.imgur.com/YCw47Dm.gif">
+</p>
+
+<!--📏LINE -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🖼️OCTOCAT AVATAR-->
 <p align="center">
@@ -103,7 +107,7 @@
   </tr>
   <tr>
     <td><h5 align="center"><details>
-  <summary><h2>&nbsp;&nbsp;<img src="https://media.giphy.com/media/L3LNfB3IXIUmySN67Z/giphy.gif" width="40px" height="40px">&nbsp;2 pontos "podem?" se conectar&nbsp;<img src="https://media.giphy.com/media/Y0slbp1Hr4C8lUA5UG/giphy.gif" width="40px" height="40px">&nbsp;&nbsp;</h2></summary><p>
+  <summary><h2>&nbsp;&nbsp;<img src="https://media.giphy.com/media/L3LNfB3IXIUmySN67Z/giphy.gif" width="40px" height="40px">. estamos conectados .<img src="https://media.giphy.com/media/Y0slbp1Hr4C8lUA5UG/giphy.gif" width="40px" height="40px">&nbsp;&nbsp;</h2></summary><p>
 </p>
 <h4 align="left">
 
@@ -123,8 +127,6 @@
       
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="center">
 
 <!--🐱CAT-->
 <p align="center">
@@ -170,10 +172,111 @@
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
+
+<!-- BEGIN MOVES LIST2 -->
+<!-- END MOVES LIST2 -->
+
+<details>
+  <summary>Last 5 moves in this game</summary>
+<!-- BEGIN LAST MOVES2 -->
+
+| Move | Author |
+| :--: | :----- |
+| `2` |  [ @biswajit-ovaku](https://github.com/biswajit-ovaku) | |
+| `2` |  [ @trinib](https://github.com/trinib) | |
+| `2` |  [ @VikashPR](https://github.com/VikashPR) | |
+| `4` |  [ @axojolotl](https://github.com/axojolotl) | |
+| `1` |  [ @Monster0506](https://github.com/Monster0506) | |
+
+<!-- END LAST MOVES2 -->
+</details>
+
+<details>
+  <summary>Top 10 most moves across all games</summary>
+<!-- BEGIN TOP MOVES2 -->
+
+| Total moves |  User  |
+| :---------: | :----- |
+| 9 |  [@trinib](https://github.com/trinib) | |
+| 5 |  [@oxoovo](https://github.com/oxoovo) | |
+| 2 |  [@JayantGoel001](https://github.com/JayantGoel001) | |
+| 1 |  [@mauro-balades](https://github.com/mauro-balades) | |
+| 1 |  [@SantosPauloRF](https://github.com/SantosPauloRF) | |
+| 1 |  [@BolaGhaly](https://github.com/BolaGhaly) | |
+| 1 |  [@PriestlyAdejo](https://github.com/PriestlyAdejo) | |
+| 1 |  [@bot-beep-boop](https://github.com/bot-beep-boop) | |
+| 1 |  [@RedCommand-dev](https://github.com/RedCommand-dev) | |
+| 1 |  [@BlueFalconHD](https://github.com/BlueFalconHD) | |
+
+<!-- END TOP MOVES2 -->
+</details><h5 align="center">
+  </tr>
+ </table>
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
+
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
+<!--🤔INTERESTTITLE-->
+<p align="center">
+<img src="https://i.imgur.com/ozEwbHs.gif">
+
+<!--🖼️🖼️INTERSTLOGOS-->
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+</h4>
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
+<h4 align="left">
+</h4>
+ 
+╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
+<h4>
+<h4 align="left">  
+ 
+╚═════ &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) 𝐈𝐍 𝐇𝐄𝐑𝐄...
+<h4>
+
+<!--🪳ROACH&🕷️SPIDER--> 
+<p align="left">
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+ 
+
+<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Thursday, December 15th, 2022, 11:58:06 AM</b>
+<i>Last refresh</i>: <b>Thursday, Jan 18th, 2023, 11:58:06 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
-  
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
 𝐈𝐅 𝐘𝐎𝐔 𝐑𝐄𝐀𝐂𝐇𝐄𝐃 𝐇𝐄𝐑𝐄 (C O N G R A T S 🎉🎈🎊) 
 𝐂𝐇𝐄𝐂𝐊 𝐎𝐔𝐓 𝐓𝐇𝐄𝐒𝐄:
