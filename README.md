@@ -51,7 +51,6 @@
   <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" height="18px" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="18px" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="18px" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="18px" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="18px" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="18px" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="18px" />
@@ -142,8 +141,6 @@
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
