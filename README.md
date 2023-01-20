@@ -265,8 +265,9 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
-
- ============== Eu amo muito o Open Souce ==============
+<p align="center">
+   ============== Eu amo muito o Open Souce ==============
+</p>
 <div align="center">
 
 ```diff
