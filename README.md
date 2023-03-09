@@ -280,7 +280,7 @@
 @@    ( .   . )     .----------------------------.     @@
 @@   / /     \ \    | while( ! (succed=try() ) ) |     @@
 @@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
+@@    \|=====|/           RobsonGuimarães              @@
 @@     |_.^._|                                         @@
 @@     | |"| |                                         @@
 @@     ( ) ( )   Testing leads to failure              @@
@@ -291,10 +291,8 @@
 ```
   
 </div>
-<--
-![terminal](https://user-images.githubusercontent.com/46011897/213612977-5972a2d9-a38f-455b-8e0d-6175cdb260f6.gif)
 
---!>
+![terminal](https://user-images.githubusercontent.com/46011897/213612977-5972a2d9-a38f-455b-8e0d-6175cdb260f6.gif)
 
 
 
