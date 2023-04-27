@@ -31,7 +31,7 @@
 
 <!-- BADGETS - LINGUAGENS DE CONHECIMENTOS -->
 <h3 align="center">Conhecimento nas linguagens⤵️</h3>
-<p align="left">
+<p align="center">
   <!-- FrontEnd -->  
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="18px"/>
   <img src="https://img.shields.io/badge/Markdown-239120?style=for-the-badge&logo=markdown&logoColor=white" height="18px" />
