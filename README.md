@@ -42,11 +42,7 @@
 </p>
 
 <!--🖼️🖼️INTERSTLOGOS-->
-<h2 align="center">Interesses de estudo futuro</h1>
-
-<!--📏LINE-->
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## Interesses de estudo futuro
 
 <!-- Icones de interesse-->
 <p align="center">
