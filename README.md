@@ -41,7 +41,7 @@
 </p>
 
 <!--🖼️🖼️INTERSTLOGOS-->
-## Interesses de estudo futuro
+<h2 align="center"> Interesses de estudo futuro</h2>
 
 <!-- Icones de interesse-->
 <p align="center">
@@ -54,7 +54,8 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 </h4>
- 
+
+<div align="center"><!-- Start Dark Theme animation design -->
 ╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
 <h4>
 <h4 align="left">  
@@ -69,7 +70,7 @@
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 <h4 align="left">
 </h4>
- 
+</div> <!-- Final Dark theme animation -->
 
 <div align="center">
 
