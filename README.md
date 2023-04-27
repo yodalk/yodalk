@@ -19,7 +19,6 @@
  <!--🐱CAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-
  
 <h1>Olá Mundo!</h1>
 <ul>
@@ -41,18 +40,6 @@
   <img src="https://img.shields.io/badge/Ruby-F7DF1E?style=for-the-badge&logo=ruby&logoColor=black" height="18px" />
   <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" height="18px" />
 </p>
-
-  <!-- Contato -->
-  <h3 align="left">Streaming</h3>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <h3 align="left">Blog</h3>
-  <p align="left">
-    <a href="https://medium.com/@rgwebmaster">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-    </a>
-  </p>
 
 <!--🖼️🖼️INTERSTLOGOS-->
 <h2 align="center">Interesses de estudo futuro</h1>
