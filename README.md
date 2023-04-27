@@ -15,7 +15,6 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- Apresentação -->
-
  <!--🐱CAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
@@ -29,7 +28,7 @@
 </ul>
 
 <!-- BADGETS - LINGUAGENS DE CONHECIMENTOS -->
-<h3 align="center">Conhecimento nas linguagens⤵️</h3>
+<h3 align="center">Conhecimento nas linguagens</h3>
 <p align="center">
   <!-- FrontEnd -->  
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="18px"/>
