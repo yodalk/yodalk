@@ -35,12 +35,14 @@
  
 <h1>Olá Mundo!</h1>
 <ul>
-  <li>🎯 Meu nome é Robson.</li>
-  <li>🚀 Apaixonado por Técnologia.</li>
-  <li>🧐 Estudo Analise e desenvolvimento de sistemas, técnico em Eletrônica e desenvolvedor full stack.</li>
-  <li>📚 Ler e 🥋 jiu-jitsu são meus hobbys preferidos.</li>
+  <li> Olá meu nome é Robson Jr, mas por aqui podem me chamar de Yodalk 🤟</li>
+  <li>🐱‍💻 Venho navegado entre o mundo do coding a mais de 10+ anos e até hoje acredito que tenho muito que aprender, sempre nesses vai e vem, mudando de linguagens de programação toda hora, lógica, banco de dados, api, rest, rest full, c, c++, etc.. sopa de palavras para quem começou a estudar agora programação mas com tempo se tornam parte do seu vocabulário e piada interna que só quem passou pelo processo entende.</li>
+  <li>🧐 Estudo Analise e desenvolvimento de sistemas, técnico em Eletrônica e desenvolvedor full stack autodidata 100% online.</li>
+  <li>📚 Eu não estudei muito na escola, mas aprendi a programar mesmo sem ter terminado o ensino médio sempre fui hiperativo, com algum tipo de transtorno neurobiológico de causas genéticas, caracterizado por sintomas como falta de atenção, inquietação e impulsividade. Aparece na infância e pode acompanhar o indivíduo por toda a vida. Ter um filho mudou as escolhas da minha vida, práticar jiu-jitsu ajudou um pouco a controlar o TDAH.</li>
 </ul>
 
+Não quero me fazer de pobre coitado, tive muitos problemas nessa caminhada tive a oportunidade de aprender muito com tudo isso. Eu sei que o caminho até o domínio de uma linguagem é difícil, um trabalho duro assim como tudo que estar por vir na sua vida. Seja lá qual for o seu objetivo, se tornar um faixa preta seja lá em qual for sua arte é difícil, sobreviver é difícil e sua existência também é uma probabiidade minima, mas você está ai né? Então, vai fazer o que com essa oportunidade de simplesmente existir? - Descubra o que você ama fazer, então morra fazendo isso, ajude os outros sem esperar nada em troca, simplesmente faça pelo ato de ser útil, poder contribuir.
+    
 <!-- BADGETS - LINGUAGENS DE CONHECIMENTOS -->
 <h3 align="center">Conhecimento nas linguagens</h3>
 <p align="center">
