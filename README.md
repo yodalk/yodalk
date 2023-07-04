@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" />
-  Hello world! I'm Robson Junior
+  I'm Jr Guimarães
 </h1>
 
 <p>Eu estudo programação, desenvolvimento web e eletrônica no meu tempo livre por conta própria. Sou pai solteiro de um garoto incrível que me ensina todos os dias a ser uma pessoa melhor, minha missão é me desenvolver pessoal e profissionalmente buscando incansavelmente a minha melhor versão.</p>
