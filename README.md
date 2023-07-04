@@ -1,5 +1,11 @@
 <!-- Headline - Titulo -->
-<h1 align="center">Hello world! I'm Robson Junior</h1>
+<!--🐱CAT-->
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" />
+  Hello world! I'm Robson Junior
+</h1>
+
 <p>Eu estudo programação, desenvolvimento web e eletrônica no meu tempo livre por conta própria. Sou pai solteiro de um garoto incrível que me ensina todos os dias a ser uma pessoa melhor, minha missão é me desenvolver pessoal e profissionalmente buscando incansavelmente a minha melhor versão.</p>
 
 <i>"Se você acredita que pode ou que não pode, de qualquer forma você está certo!" - Henry Ford.</i>
@@ -31,10 +37,7 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- Apresentação -->
- <!--🐱CAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-
+ 
 <div align="center"><!-- Start Dark Theme animation design -->
 
   <h4 align="center">
