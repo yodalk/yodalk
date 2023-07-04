@@ -10,18 +10,6 @@
 
 <i>"Se você acredita que pode ou que não pode, de qualquer forma você está certo!" - Henry Ford.</i>
 
-<!-- BADGETS - LINGUAGENS DE CONHECIMENTOS -->
-<h3 align="center">Ténologias que eu domino</h3>
-<p align="center">
-  <!-- FrontEnd -->  
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="18px"/>
-  <img src="https://img.shields.io/badge/Markdown-239120?style=for-the-badge&logo=markdown&logoColor=white" height="18px" />
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="18px" />
-  <img src="https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=php&logoColor=black" height="18px" />
-  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" height="18px" />
-  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" height="18px" />
-</p>
-
 <!-- Developer Skills -->
 <div align="center">
   <p align="left">Plataformas que eu trabalho:</p>
@@ -34,42 +22,57 @@
   </ul>
 </div>
 
+<!-- BADGETS - LINGUAGENS DE CONHECIMENTOS -->
+<h3 align="center">Ténologias que eu domino</h3>
+<p align="center">
+  <!-- FrontEnd -->  
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="18px"/>
+  <img src="https://img.shields.io/badge/Markdown-239120?style=for-the-badge&logo=markdown&logoColor=white" height="18px" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="18px" />
+  <img src="https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=php&logoColor=black" height="18px" />
+  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" height="18px" />
+  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" height="18px" />
+</p>
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- Apresentação -->
  
 <div align="center"><!-- Start Dark Theme animation design -->
-
-  <h4 align="center">
+  
+<h4 align="center">
 ╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
 
  
 ╚═════ &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://jrguimarae.com)[𝐁𝐑𝐈𝐆𝐇𝐓⚪]([https://github.com/settings/appearance#gh-light-mode-only](https://jrguimarae.com)) 𝐈𝐍 𝐇𝐄𝐑𝐄...
-<h4>
+</h4>
 
 <!--🪳ROACH&🕷️SPIDER--> 
 <p align="center">
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40"> 
-    
-<!--🖼️🖼️INTERSTLOGOS-->
+</p>
+</div><!-- Final Dark Theme animation design -->
+
+<!-- Inicio Interesses futuros de aprendizado -->
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
 Interesses de estudo futuro
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 </p>
 
-<!-- Icones de interesse-->
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+<h4 align="center">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="50">
 </h4>
+<!-- Fim Interesses futuros de aprendizado -->
 
+<!-- Figurinha - Programação não é sobre o que você sabe é sobre o que você pode imaginar e criar -->
 <div align="center">
-
+  
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
@@ -94,7 +97,7 @@ Interesses de estudo futuro
   
 </div>
 
-<!--
+<!-- Links externos usados no template para consulta, documentação, ajuda, etc..
 
 ![terminal](https://user-images.githubusercontent.com/46011897/213612977-5972a2d9-a38f-455b-8e0d-6175cdb260f6.gif)
 
