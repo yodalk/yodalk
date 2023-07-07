@@ -21,29 +21,27 @@
 </p>
 
 <!-- Developer Skills -->
-<div align="center">
-  <p align="left">Plataformas & Ferramentas que eu gosto de usar</p>
-  <ul type="square" align="left">
-    <li>Wordpress</li>
-    <li>Shopify</li>
-    <li>Vercel</li>
-    <li>Netlify</li>
-    <li>Firebase</li>
-    <li>StackBlitz</li>
-    <li>Backlight</li>
-    <li>Gitlab</li>
-    <li>Replit</li>
-    <li>Codepen</li>
-    <li>Pinata</li>
-    <li>NFTStorage</li>
-    <li>Codespace</li>
-    <li>Vscode</li>
-    <li>Vim</li>
-  </ul>
-</div>
+<p align="left">Plataformas & Ferramentas que eu gosto de usar</p>
+<ul type="square" align="left">
+   <li>Wordpress</li>
+   <li>Shopify</li>
+   <li>Vercel</li>
+   <li>Netlify</li>
+   <li>Firebase</li>
+   <li>StackBlitz</li>
+   <li>Backlight</li>
+   <li>Gitlab</li>
+   <li>Replit</li>
+   <li>Codepen</li>
+   <li>Pinata</li>
+   <li>NFTStorage</li>
+   <li>Codespace</li>
+   <li>Vscode</li>
+   <li>Vim</li>
+</ul>
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img align="center" src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Figurinha - Programação não é sobre o que você sabe é sobre o que você pode imaginar e criar -->
 <div align="center">
@@ -70,6 +68,7 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 </div>
+
 <!--🕷️SPIDER--> 
 <div align='center'>
   <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="70">
