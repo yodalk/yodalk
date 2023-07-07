@@ -29,6 +29,7 @@
     <li>Vercel</li>
     <li>Netlify</li>
     <li>Firebase</li>
+    <li>StackBlitz</li>
   </ul>
 </div>
 
