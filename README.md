@@ -30,6 +30,12 @@
     <li>Netlify</li>
     <li>Firebase</li>
     <li>StackBlitz</li>
+    <li>Backlight</li>
+    <li>Gitlab</li>
+    <li>Replit</li>
+    <li>Codepen</li>
+    <li>Pinata</li>
+    <li>NFTStorage</li>
   </ul>
 </div>
 
