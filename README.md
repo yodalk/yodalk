@@ -21,7 +21,7 @@
 </p>
 
 <!-- Developer Skills -->
-<p align="left">Plataformas & Ferramentas que eu gosto de usar</p>
+<h4 align="left">Plataformas & Ferramentas</h4>
 <ul type="square" align="left">
    <li>Wordpress</li>
    <li>Shopify</li>
