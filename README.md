@@ -22,7 +22,7 @@
 
 <!-- Developer Skills -->
 <div align="center">
-  <p align="left">Plataformas que eu trabalho:</p>
+  <p align="left">Plataformas & Ferramentas que eu gosto de usar</p>
   <ul type="square" align="left">
     <li>Wordpress</li>
     <li>Shopify</li>
@@ -36,6 +36,9 @@
     <li>Codepen</li>
     <li>Pinata</li>
     <li>NFTStorage</li>
+    <li>Codespace</li>
+    <li>Vscode</li>
+    <li>Vim</li>
   </ul>
 </div>
 
