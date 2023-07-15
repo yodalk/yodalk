@@ -82,8 +82,6 @@
   <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="73">
 </div>
 
-
-
 <!-- Links externos usados no template para consulta, documentação, ajuda, etc..
 
 ![terminal](https://user-images.githubusercontent.com/46011897/213612977-5972a2d9-a38f-455b-8e0d-6175cdb260f6.gif)
