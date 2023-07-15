@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Markdown-239120?style=for-the-badge&logo=markdown&logoColor=white" height="18px" />
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="18px" />
   <img src="https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=php&logoColor=black" height="18px" />
-  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" height="18px" />
   <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" height="18px" />
 </p>
 
