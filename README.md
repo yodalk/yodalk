@@ -74,8 +74,12 @@
 <!--🕷️SPIDER--> 
 <div align='center'>
   <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="70">
-  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
   <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="70">
+  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="30">
+  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="93">
+  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="98">
+  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="73">
 </div>
 
 
