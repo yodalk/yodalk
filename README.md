@@ -23,25 +23,13 @@
 </p>
 
 <!-- Developer Skills -->
-<h4 align="left">Plataformas & Ferramentas</h4>
-<ul type="square" align="left">
-   <li>Wordpress</li>
-   <li>Shopify</li>
-   <li>Vercel</li>
-   <li>Netlify</li>
-   <li>Firebase</li>
-   <li>StackBlitz</li>
-   <li>Backlight</li>
-   <li>Gitlab</li>
-   <li>Replit</li>
-   <li>Codepen</li>
-   <li>Pinata</li>
-   <li>NFTStorage</li>
-   <li>Codespace</li>
-   <li>Vscode</li>
-   <li>Vim</li>
-</ul>
+<div align="center">
 
+<p align="center"><b>Conhecimentos gerais</b></p>
+
+[![My Skills](https://skillicons.dev/icons?i=github,gcp,vercel,netlify,firebase,replit,vim,vscode,git,react,vue,astro,nextjs,php,python,tailwindcss,css,bootstrap,remix,wordpress,ipfs&perline=3)](https://skillicons.dev)
+
+</div>
 <!--📏LINE-->
 <img align="center" src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
