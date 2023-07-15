@@ -24,9 +24,10 @@
 <!-- Developer Skills -->
 <div align="center">
 
-<p align="center"><b>Conhecimentos gerais</b></p>
 
 [![My Skills](https://skillicons.dev/icons?i=linux&perline=1)](https://skillicons.dev)
+
+<p align="center"><b>Conhecimentos gerais</b></p>
 
 [![My Skills](https://skillicons.dev/icons?i=github,gcp,vercel,netlify,firebase,mysql,mongodb,replit,vim,vscode,powershell,react,vue,astro,php,python,tailwindcss,css,remix,bootstrap,nextjs,wordpress,git,ipfs&perline=3)](https://skillicons.dev)
 
