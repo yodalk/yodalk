@@ -26,6 +26,8 @@
 
 <p align="center"><b>Conhecimentos gerais</b></p>
 
+[![My Skills](https://skillicons.dev/icons?i=linux&perline=1)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=github,gcp,vercel,netlify,firebase,mysql,mongodb,replit,vim,vscode,powershell,git,react,vue,astro,nextjs,php,python,tailwindcss,css,bootstrap,remix,wordpress,ipfs&perline=3)](https://skillicons.dev)
 
 </div>
