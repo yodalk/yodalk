@@ -69,6 +69,8 @@
 ```
 </div>
 
+> "Suas maldições são também suas maiores forças, já que nunca lhe abandonaram são também um fiél presente pois te dão a clareza dos seus medos e com isso a oportunidade de criar a sua maior força."
+
 <!--🕷️SPIDER--> 
 <div align='center'>
   <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="70">
