@@ -1,68 +1,37 @@
 <!--CAT-->
 <h1 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" />
-  Jrguimarães
+  <a href="https://jrguimaraes.com">  Jrguimarães</a>
 </h1>
-
-> Foi estudando programação que aprendi que sempre temos que aprender mais.
-
-<p>Eu estudo programação, desenvolvimento web e eletrônica no meu tempo livre por conta própria. Sou pai solteiro de um garoto incrível que me ensina todos os dias a ser uma pessoa melhor, minha missão é me desenvolver pessoal e profissionalmente buscando incansavelmente a minha melhor versão.</p>
-
-<p align="center"><i>"Se você acredita que pode ou que não pode, de qualquer forma você está certo!" - Henry Ford.</i></p>
-
-<!-- BADGETS - LINGUAGENS DE CONHECIMENTOS -->
-<h3 align="center">Ténologias que eu domino</h3>
-<p align="center">
-  <!-- FrontEnd -->  
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="18px"/>
-  <img src="https://img.shields.io/badge/Markdown-239120?style=for-the-badge&logo=markdown&logoColor=white" height="18px" />
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="18px" />
-  <img src="https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=php&logoColor=black" height="18px" />
-  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" height="18px" />
-</p>
-
-<!-- Developer Skills -->
-<div align="center">
-
-
-[![My Skills](https://skillicons.dev/icons?i=linux&perline=1)](https://skillicons.dev)
-
-<p align="center"><b>Conhecimentos gerais</b></p>
-
-[![My Skills](https://skillicons.dev/icons?i=github,gcp,vercel,netlify,firebase,mysql,mongodb,replit,vim,vscode,powershell,react,vue,astro,php,python,tailwindcss,css,remix,bootstrap,nextjs,wordpress,git,ipfs&perline=3)](https://skillicons.dev)
-
-</div>
-<!--📏LINE-->
-<img align="center" src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Figurinha - Programação não é sobre o que você sabe é sobre o que você pode imaginar e criar -->
 <div align="center">
   
 ```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/              Jrguimarães               @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Mesmo no seu pior momento, nunca      @@
-@@     |_| |_|   desista da sua melhor versão.         @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                   @@
+@@       | |     Jrguimarães   @@
+@@      _L_L_                  @@
+@@   ❮\/__-__\/❯               @@
+@@   ❮(|~o.o~|)❯               @@
+@@   ❮/ \`-'/ \❯               @@
+@@     _/`U'\_                 @@
+@@    ( .   . )                @@
+@@   / /     \ \ while( ! (    @@
+@@   \ |  ,  | /  succes=try(n)@@
+@@    \|=====|/  ) )           @@
+@@     |_.^._|                 @@
+@@     | |"| |                 @@
+@@     ( ) ( )                 @@
+@@     |_| |_|                 @@
+@@ _.-' _j L_ '-._             @@
+@@(___.'     '.___)            @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
 </div>
 
-> "Suas maldições são também suas maiores forças, já que nunca lhe abandonaram são também um fiél presente pois te dão a clareza dos seus medos e com isso a oportunidade de criar a sua maior força."
+`$~ "Suas maldições são também suas maiores forças, já que nunca lhe abandonaram são também um fiél presente pois te dão a clareza dos seus medos e com isso a oportunidade de criar a sua maior força."`
 
 <!--🕷️SPIDER--> 
 <div align='center'>
