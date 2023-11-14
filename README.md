@@ -3,9 +3,10 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" />
   <a href="https://jrguimaraes.com">  Jrguimarães</a>
 </h1>
-<p>Seja bem vindo ao meu playground de programação, meu nome é Robson Guimarães Junior, brasileiro, minha paixão pela tenologia começou com os games na infância, meu deploy favorito se chama Nicolinhas meu filho que me ensina bastante mesmo sem saber.</p>
 
-<p>Meu objetivo aqui é tentar aprender, colaborar com a comunidade open source que tem me ajudado muito nesse processo compartilhando conteúdo gratuitamente sou fã dessas pessoas que doam o seu tempo ajudando a melhorar nossas vidas atráves da tecnologia.</p>
+<p>Seja bem vindo ao meu playground de programação, meu nome é Robson Guimarães Junior, brasileiro, minha paixão pela tenologia começou com os games na infância, meu deploy favorito se chama Nicolinhas meu filho que me ensina bastante mesmo sem saber. Você pode conhecer um pouco do meu trabalho <a href="https://jrwebmaster.vercel.app">aqui<a/></p>
+
+
 
 > Nessa vida eu aprendi que sempre temos algo para aprender.
 
