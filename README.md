@@ -4,7 +4,7 @@
   <a href="https://jrguimaraes.com">  Jrguimarães</a>
 </h1>
 
-<p>Seja bem vindo ao meu playground de programação, meu nome é Robson Guimarães Junior, brasileiro, minha paixão pela tenologia começou com os games na infância, meu deploy favorito se chama Nicolinhas meu filho que me ensina bastante mesmo sem saber.</p>
+<p>Seja bem vindo ao meu playground de programação, meu nome é Robson Guimarães Junior, brasileiro, minha paixão pela tenologia começou com os games na infância, meu deploy favorito se chama Nicolinhas meu filho.</p>
 
 <p> Você pode conhecer um pouco do meu trabalho <a href="https://jrwebmaster.vercel.app">aqui<a/></p>
 
