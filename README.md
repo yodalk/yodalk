@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" />
   <a href="https://jrguimaraes.com">  Jrguimarães</a>
 </h1>
-
+<p>Seja bem vindo ao meu playground de programação</p>
 <!-- Figurinha - Programação não é sobre o que você sabe é sobre o que você pode imaginar e criar -->
 <div align="center">
   
