@@ -4,7 +4,7 @@
   Yodalk
 </h1>
 
-<p>Seja bem vindo ao meu playground<\p>
+<p>Seja bem vindo ao meu playground</p>
 
 > Nessa vida eu aprendi que sempre temos algo para aprender.
 
