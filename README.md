@@ -8,11 +8,9 @@
 
 <h2 align="left">Habilidades Coding</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,css,php&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,gcp,azure,react,css,php,&perline=3)](https://skillicons.dev)
 <div>
 </div>
-
-> Nessa vida eu aprendi que sempre temos algo para aprender.
 
 <!-- Figurinha - Programação não é sobre o que você sabe é sobre o que você pode imaginar e criar -->
 <div align="center">
