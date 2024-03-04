@@ -6,10 +6,10 @@
 
 <p align="center">Seja bem vindo ao meu playground</p>
 
-<h2 align="center">Habilidades Coding</h2>
+<h2 align="left">Habilidades Coding</h2>
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,css,php&perline=3)](https://skillicons.dev)
 <div>
-  
 </div>
 
 > Nessa vida eu aprendi que sempre temos algo para aprender.
