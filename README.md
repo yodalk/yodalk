@@ -4,7 +4,13 @@
   Yodalk
 </h1>
 
-<p>Seja bem vindo ao meu playground</p>
+<p align="center">Seja bem vindo ao meu playground</p>
+
+<h2 align="center">Habilidades Coding</h2>
+
+<div>
+  
+</div>
 
 > Nessa vida eu aprendi que sempre temos algo para aprender.
 
@@ -35,7 +41,7 @@
 
 </div>
 
-`$~ "Suas maldições são também suas maiores forças, já que nunca lhe abandonaram são também um fiél presente pois te dão a clareza dos seus medos e com isso a oportunidade de criar a sua maior força."`
+`$~ "Suas maldições são também suas maiores forças, já que nunca lhe abandonaram são também um fiél presente pois te dão a clareza dos seus medos e com isso a oportunidade de se conhecer."`
 
 <!--🕷️SPIDER--> 
 <div align='center'>
