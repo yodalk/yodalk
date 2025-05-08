@@ -1,7 +1,8 @@
 <!--CAT-->
 <h1 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" />
-  Yodalk
+  Yodalk Rbit
+  Gaming -> Deadliness
 </h1>
 
 <p align="center">Seja bem vindo ao meu playground</p>
@@ -18,7 +19,7 @@
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                   @@
-@@       | |     Jrguimarães   @@
+@@       | |     RBIT          @@
 @@      _L_L_                  @@
 @@   ❮\/__-__\/❯               @@
 @@   ❮(|~o.o~|)❯               @@
@@ -39,18 +40,11 @@
 
 </div>
 
-`$~ "Suas maldições são também suas maiores forças, já que nunca lhe abandonaram são também um fiél presente pois te dão a clareza dos seus medos e com isso a oportunidade de se conhecer."`
+`$~ "Your curses are also your biggest strengths. They’ve never left you—they stick around like a loyal friend, showing you your fears and giving you the chance to really understand yourself."`
+
+<!-- `$~ "Suas maldições são também suas maiores forças, já que nunca lhe abandonaram são também um fiél presente pois te dão a clareza dos seus medos e com isso a oportunidade de se conhecer."` -->
 
 <!--🕷️SPIDER--> 
-<div align='center'>
-  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="70">
-  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="70">
-  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="30">
-  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
-  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="93">
-  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="98">
-  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="73">
-</div>
 
 <!-- Links externos usados no template para consulta, documentação, ajuda, etc..
 
