@@ -1,12 +1,9 @@
 <!--CAT-->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" />
-  Yodalk Rbit
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" /><br />
+  Yodalk Rbit<br />
   Gaming -> Deadliness
 </h1>
-
-<p align="center">Seja bem vindo ao meu playground</p>
-
 
 <!-- Figurinha - Programação não é sobre o que você sabe é sobre o que você pode imaginar e criar -->
 <div align="center">
