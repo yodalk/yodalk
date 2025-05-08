@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" /><br />
   Yodalk Rbit<br />
-  Gaming -> Deadliness
+  Nick Gamer: Deadliness
 </h1>
 
 <!-- Figurinha - Programação não é sobre o que você sabe é sobre o que você pode imaginar e criar -->
