@@ -7,11 +7,6 @@
 
 <p align="center">Seja bem vindo ao meu playground</p>
 
-<h2 align="left">Habilidades Coding</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=figma,gcp,azure,react,css,php,&perline=3)](https://skillicons.dev)
-<div>
-</div>
 
 <!-- Figurinha - Programação não é sobre o que você sabe é sobre o que você pode imaginar e criar -->
 <div align="center">
