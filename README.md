@@ -1,75 +1,48 @@
-<!--CAT-->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" /><br />
-  Yodalk Rbit<br />
-  Nick Gamer: Deadliness
-</h1>
+# 👋 Hello, I'm Yodalk
 
-<!-- Figurinha - Programação não é sobre o que você sabe é sobre o que você pode imaginar e criar -->
-<div align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                   @@
-@@       | |     RBIT          @@
-@@      _L_L_                  @@
-@@   ❮\/__-__\/❯               @@
-@@   ❮(|~o.o~|)❯               @@
-@@   ❮/ \`-'/ \❯               @@
-@@     _/`U'\_                 @@
-@@    ( .   . )                @@
-@@   / /     \ \ while( ! (    @@
-@@   \ |  ,  | /  succes=try(n)@@
-@@    \|=====|/  ) )           @@
-@@     |_.^._|                 @@
-@@     | |"| |                 @@
-@@     ( ) ( )                 @@
-@@     |_| |_|                 @@
-@@ _.-' _j L_ '-._             @@
-@@(___.'     '.___)            @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
+Computar Scientist • Prompt Engineer • Frontend Developer
 
-</div>
+---
 
-`$~ "Your curses are also your biggest strengths. They’ve never left you—they stick around like a loyal friend, showing you your fears and giving you the chance to really understand yourself."`
+## 🚀 Current Focus
 
-<!-- `$~ "Suas maldições são também suas maiores forças, já que nunca lhe abandonaram são também um fiél presente pois te dão a clareza dos seus medos e com isso a oportunidade de se conhecer."` -->
+- Artificial Intelligence
+- Prompt Engineering
+- Frontend Systems
+- Automation
+- Cybersecurity
+- Audiovisual Projects
+- Roblox & Sandbox scripting
 
-<!--🕷️SPIDER--> 
+---
 
-<!-- Links externos usados no template para consulta, documentação, ajuda, etc..
+## 🧠 Technologies
 
-![terminal](https://user-images.githubusercontent.com/46011897/213612977-5972a2d9-a38f-455b-8e0d-6175cdb260f6.gif)
+- Linux
+- Python
+- JavaScript
+- HTML/CSS
+- TailwindCSS
+- Astro
+- Git/GitHub
+- Docker
+- Arduino
 
-𝐈𝐅 𝐘𝐎𝐔 𝐑𝐄𝐀𝐂𝐇𝐄𝐃 𝐇𝐄𝐑𝐄 (C O N G R A T S 🎉🎈🎊) 
-𝐂𝐇𝐄𝐂𝐊 𝐎𝐔𝐓 𝐓𝐇𝐄𝐒𝐄:
-██████╗ ███████╗ █████╗ ██╗   ██╗████████╗██╗███████╗██╗   ██╗     ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗ 
-██╔══██╗██╔════╝██╔══██╗██║   ██║╚══██╔══╝██║██╔════╝╚██╗ ██╔╝    ██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗
-██████╔╝█████╗  ███████║██║   ██║   ██║   ██║█████╗   ╚████╔╝     ██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝
-██╔══██╗██╔══╝  ██╔══██║██║   ██║   ██║   ██║██╔══╝    ╚██╔╝      ██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗
-██████╔╝███████╗██║  ██║╚██████╔╝   ██║   ██║██║        ██║       ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
-╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝╚═╝        ╚═╝        ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝                                         
-https://github.com/rzashakeri/beautify-github-profile
- ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗     ███████╗███████╗ █████╗ ██████╗  ██████╗██╗  ██╗
-██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ██║
-██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝    ███████╗█████╗  ███████║██████╔╝██║     ███████║
-██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗    ╚════██║██╔══╝  ██╔══██║██╔══██╗██║     ██╔══██║
-╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝    ███████║███████╗██║  ██║██║  ██║╚██████╗██║  ██║
- ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝     ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-https://github.com/gennaro-tedesco/gh-s
-███████╗██╗   ██╗███╗   ██╗ ██████╗    ███████╗ ██████╗ ██████╗ ██╗  ██╗███████╗
-██╔════╝╚██╗ ██╔╝████╗  ██║██╔════╝    ██╔════╝██╔═══██╗██╔══██╗██║ ██╔╝██╔════╝
-███████╗ ╚████╔╝ ██╔██╗ ██║██║         █████╗  ██║   ██║██████╔╝█████╔╝ ███████╗
-╚════██║  ╚██╔╝  ██║╚██╗██║██║         ██╔══╝  ██║   ██║██╔══██╗██╔═██╗ ╚════██║
-███████║   ██║   ██║ ╚████║╚██████╗    ██║     ╚██████╔╝██║  ██║██║  ██╗███████║
-╚══════╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-https://github.com/wei/pull
-██████╗ ███████╗███████╗██╗███╗   ██╗███████╗██████╗        ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗ 
-██╔══██╗██╔════╝██╔════╝██║████╗  ██║██╔════╝██╔══██╗      ██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗
-██████╔╝█████╗  █████╗  ██║██╔██╗ ██║█████╗  ██║  ██║█████╗██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝
-██╔══██╗██╔══╝  ██╔══╝  ██║██║╚██╗██║██╔══╝  ██║  ██║╚════╝██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗
-██║  ██║███████╗██║     ██║██║ ╚████║███████╗██████╔╝      ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
-╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═══╝╚══════╝╚═════╝        ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
-https://github.com/refined-github/refined-github
--->
+---
+
+## ⚡ Current Mission
+
+Building scalable digital products and intelligent online businesses.
+
+---
+
+## 🌎 Links
+
+Portfolio:
+yourwebsite.com
+
+LinkedIn:
+linkedin.com/in/...
+
+Email:
+youremail@gmail.com
