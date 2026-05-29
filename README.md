@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Yodalk
 
-Computar Scientist • Prompt Engineer • Frontend Developer
+Founder rgwebcompany • Prompt Engineer • Digital Architect
 
 ---
 
