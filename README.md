@@ -26,21 +26,3 @@ Transformando ideias em sistemas inteligentes, automações seguras e experiênc
 ![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Arduino](https://img.shields.io/badge/Arduino-lightblue?logo=arduino)
-
----
-
-## ⚡ Current Mission
-Building scalable digital products, intelligent systems and creative online businesses.  
-
----
-
-## 🌎 Links
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-- **LinkedIn:** [linkedin.com/in/...](https://linkedin.com/in/...)  
-- **Email:** youremail@example.com  
-
----
-
-## 📜 License
-This project is licensed under the MIT License.  
-Feel free to use, modify and share.
