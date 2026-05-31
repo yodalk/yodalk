@@ -1,22 +1,14 @@
-# 👋 Hello, I'm Yodalk
+# 👋 Olá, eu sou Yodalk
 
-**AI Engineer • Prompt Engineer • Frontend Developer**  
-Transformando ideias em sistemas inteligentes, automações seguras e experiências digitais criativas.
+Sou um entusiasta de tecnologia que decidiu reconstruir a vida através do conhecimento, da disciplina e da criação de projetos.
 
----
+Estudo programação, Linux, segurança digital, eletrônica e inteligência artificial há anos. Atualmente estou focado em transformar esse conhecimento em produtos, serviços e conteúdo que possam gerar valor para outras pessoas.
 
-## 🚀 Current Focus
-- Artificial Intelligence  
-- Prompt Engineering  
-- Frontend Systems  
-- Automation  
-- Cybersecurity  
-- Audiovisual Projects  
-- Roblox & Sandbox scripting  
+Neste GitHub você encontrará projetos, estudos, experimentos e registros da minha evolução técnica.
 
----
+```
 
-## 🧠 Technologies
+## 🧠 Atual skills
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
@@ -27,17 +19,30 @@ Transformando ideias em sistemas inteligentes, automações seguras e experiênc
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Arduino](https://img.shields.io/badge/Arduino-lightblue?logo=arduino)
 
----
+```
 
-## ⚡ Current Mission
-Building scalable digital products, intelligent systems and creative online businesses.  
+## O que estou construindo atualmente
+
+* Meu portólio online
+* Sites e Aplicações Web
+* Projetos com Arduino
+* Conteúdo Audiovisual
+* Estudos de Segurança Digital
+
+---- 
+
+## Filosofia
+
+Aprender, construir, documentar e evoluir um dia de cada vez.
+
+Tecnologia não é apenas uma profissão para mim. É uma ferramenta para criar oportunidades e transformar realidades.
 
 ---
 
 ## 🌎 Links
 - **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
 - **LinkedIn:** [linkedin.com/in/...](https://linkedin.com/in/...)  
-- **Email:** youremail@example.com  
+- **Email:** robsonsmithpro@gmail.com
 
 ---
 
