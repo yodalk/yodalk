@@ -6,9 +6,8 @@ Estudo programação, Linux, segurança digital, eletrônica e inteligência art
 
 Neste GitHub você encontrará projetos, estudos, experimentos e registros da minha evolução técnica.
 
-```
-
 ## 🧠 Atual skills
+
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
@@ -19,8 +18,6 @@ Neste GitHub você encontrará projetos, estudos, experimentos e registros da mi
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Arduino](https://img.shields.io/badge/Arduino-lightblue?logo=arduino)
 
-```
-
 ## O que estou construindo atualmente
 
 * Meu portólio online
@@ -29,7 +26,7 @@ Neste GitHub você encontrará projetos, estudos, experimentos e registros da mi
 * Conteúdo Audiovisual
 * Estudos de Segurança Digital
 
----- 
+---
 
 ## Filosofia
 
