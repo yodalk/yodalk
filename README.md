@@ -1,48 +1,46 @@
 # 👋 Hello, I'm Yodalk
 
-AI Engineer • Prompt Engineer • Frontend Developer
+**AI Engineer • Prompt Engineer • Frontend Developer**  
+Transformando ideias em sistemas inteligentes, automações seguras e experiências digitais criativas.
 
 ---
 
 ## 🚀 Current Focus
-
-- Artificial Intelligence
-- Prompt Engineering
-- Frontend Systems
-- Automation
-- Cybersecurity
-- Audiovisual Projects
-- Roblox & Sandbox scripting
+- Artificial Intelligence  
+- Prompt Engineering  
+- Frontend Systems  
+- Automation  
+- Cybersecurity  
+- Audiovisual Projects  
+- Roblox & Sandbox scripting  
 
 ---
 
 ## 🧠 Technologies
-
-- Linux
-- Python
-- JavaScript
-- HTML/CSS
-- TailwindCSS
-- Astro
-- Git/GitHub
-- Docker
-- Arduino
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-orange?logo=html5)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal?logo=tailwindcss)
+![Astro](https://img.shields.io/badge/Astro-purple?logo=astro)
+![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Arduino](https://img.shields.io/badge/Arduino-lightblue?logo=arduino)
 
 ---
 
 ## ⚡ Current Mission
-
-Building scalable digital products and intelligent online businesses.
+Building scalable digital products, intelligent systems and creative online businesses.  
 
 ---
 
 ## 🌎 Links
+- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+- **LinkedIn:** [linkedin.com/in/...](https://linkedin.com/in/...)  
+- **Email:** youremail@example.com  
 
-Portfolio:
-yourwebsite.com
+---
 
-LinkedIn:
-linkedin.com/in/...
-
-Email:
-youremail@gmail.com
+## 📜 License
+This project is licensed under the MIT License.  
+Feel free to use, modify and share.
