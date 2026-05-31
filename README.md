@@ -5,17 +5,6 @@ Transformando ideias em sistemas inteligentes, automações seguras e experiênc
 
 ---
 
-## 🚀 Current Focus
-- Artificial Intelligence  
-- Prompt Engineering  
-- Frontend Systems  
-- Automation  
-- Cybersecurity  
-- Audiovisual Projects  
-- Roblox & Sandbox scripting  
-
----
-
 ## 🧠 Technologies
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
@@ -26,3 +15,14 @@ Transformando ideias em sistemas inteligentes, automações seguras e experiênc
 ![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Arduino](https://img.shields.io/badge/Arduino-lightblue?logo=arduino)
+
+---
+
+## 🚀 Current Focus
+- Artificial Intelligence  
+- Prompt Engineering  
+- Frontend Systems  
+- Automation  
+- Cybersecurity  
+- Audiovisual Projects  
+- Roblox & Sandbox scripting  
