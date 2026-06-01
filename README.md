@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Yodalk
 
-**AI Engineer • Prompt Engineer • Frontend Developer**  
+**AI Engineer • Content Creator • Computer Scientist**  
 Transformando ideias em sistemas inteligentes, automações seguras e experiências digitais criativas.
 
 ---
