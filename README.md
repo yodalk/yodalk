@@ -1,28 +1,152 @@
-# 👋 Hello, I'm Yodalk
+# 👋 Olá, eu sou o Robson
 
-**AI Engineer • Content Creator • Computer Scientist**  
-Transformando ideias em sistemas inteligentes, automações seguras e experiências digitais criativas.
+Desenvolvedor autodidata construindo soluções digitais com foco em Inteligência Artificial, automação, desenvolvimento web e produção audiovisual.
 
----
+Meu objetivo é transformar conhecimento técnico em produtos, ferramentas e negócios escaláveis.
 
-## 🧠 Technologies
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-orange?logo=html5)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal?logo=tailwindcss)
-![Astro](https://img.shields.io/badge/Astro-purple?logo=astro)
-![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Arduino](https://img.shields.io/badge/Arduino-lightblue?logo=arduino)
+Atualmente estou construindo a **RGWEB**, um estúdio digital dedicado ao desenvolvimento de soluções inteligentes para empresas, criadores de conteúdo e projetos digitais.
 
 ---
 
-## 🚀 Current Focus
-- Artificial Intelligence  
-- Prompt Engineering  
-- Frontend Systems  
-- Automation  
-- Cybersecurity  
-- Audiovisual Projects  
-- Roblox & Sandbox scripting  
+# 🚀 Atualmente
+
+- 🤖 Engenharia de Prompts
+- 🧠 Inteligência Artificial
+- 🌐 Desenvolvimento Web
+- 🎬 Audiovisual
+- 🎮 Roblox Studio
+- 🏝️ The Sandbox
+- 📈 Marketing Digital
+- ⚙️ Automação de Processos
+
+---
+
+# 💼 Serviços
+
+### 🌐 Desenvolvimento Web
+
+- Landing Pages
+- Sites Institucionais
+- Portfólios
+- WordPress
+- Astro
+- Performance e SEO
+
+---
+
+### 🤖 Inteligência Artificial
+
+- Engenharia de Prompts
+- Agentes de IA
+- Automações
+- Integração com APIs
+- Fluxos inteligentes
+
+---
+
+### 🎬 Audiovisual
+
+- Edição de vídeos
+- Motion Graphics
+- Shorts
+- Reels
+- Conteúdo para redes sociais
+
+---
+
+### 🎮 Games
+
+Desenvolvimento de scripts e sistemas para:
+
+- Roblox Studio
+- The Sandbox
+
+---
+
+### 📈 Marketing Digital
+
+- Estratégia Digital
+- Landing Pages
+- Funis
+- Automação de WhatsApp
+- Posicionamento Digital
+
+---
+
+# 🛠 Tecnologias
+
+### Linguagens
+
+- JavaScript
+- TypeScript
+- Python
+- PHP
+- HTML
+- CSS
+
+### Frameworks
+
+- Astro
+- React
+- TailwindCSS
+- WordPress
+
+### Ferramentas
+
+- Git
+- GitHub
+- Linux
+- Docker
+- VSCode
+- CapCut
+- Figma
+
+### Inteligência Artificial
+
+- ChatGPT
+- Claude
+- Gemini
+- GitHub Copilot
+- OpenRouter
+- APIs de IA
+
+---
+
+# 📌 Projetos em desenvolvimento
+
+- 🤖 Ferramentas baseadas em IA
+- 🌐 Plataforma RGWEB
+- 🎬 Biblioteca audiovisual
+- 🎮 Sistemas para Roblox
+- 🏝️ Ferramentas para The Sandbox
+- 📈 Automações para Marketing Digital
+
+---
+
+# 🎯 Objetivo
+
+Construir produtos digitais escaláveis utilizando:
+
+- Inteligência Artificial
+- Desenvolvimento de Software
+- Marketing Digital
+- Automação
+- Audiovisual
+
+---
+
+# 🌎 Contato
+
+🌐 Site
+
+https://rgweb.vercel.app
+
+---
+
+📧 Email
+
+yodalkcodes@gmail.com
+
+---
+
+> "Tecnologia não substitui pessoas. Ela amplia o potencial de quem sabe construir."
