@@ -135,15 +135,7 @@ Construir produtos digitais escaláveis utilizando:
 
 ---
 
-# 🌎 Contato
-
-🌐 Site
-
-https://rgweb.vercel.app
-
----
-
-📧 Email
+📧 Contato:
 
 yodalkcodes@gmail.com
 
