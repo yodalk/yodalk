@@ -1,21 +1,8 @@
-# 👋 Olá, eu sou o Robson
-
-Desenvolvedor autodidata construindo soluções digitais com foco em Inteligência Artificial, automação, desenvolvimento web e produção audiovisual.
-
-Meu objetivo é transformar conhecimento técnico em produtos, ferramentas e negócios escaláveis.
-
-Atualmente estou construindo a **RGWEB**, um estúdio digital dedicado ao desenvolvimento de soluções inteligentes para empresas, criadores de conteúdo e projetos digitais.
-
----
-
 # 🚀 Atualmente
 
 - 🤖 Engenharia de Prompts
-- 🧠 Inteligência Artificial
 - 🌐 Desenvolvimento Web
 - 🎬 Audiovisual
-- 🎮 Roblox Studio
-- 🏝️ The Sandbox
 - 📈 Marketing Digital
 - ⚙️ Automação de Processos
 
@@ -69,7 +56,6 @@ Desenvolvimento de scripts e sistemas para:
 - Landing Pages
 - Funis
 - Automação de WhatsApp
-- Posicionamento Digital
 
 ---
 
@@ -86,9 +72,10 @@ Desenvolvimento de scripts e sistemas para:
 
 ### Frameworks
 
+- NextJs
 - Astro
 - React
-- TailwindCSS
+- WebPack
 - WordPress
 
 ### Ferramentas
@@ -100,41 +87,7 @@ Desenvolvimento de scripts e sistemas para:
 - VSCode
 - CapCut
 - Figma
-
-### Inteligência Artificial
-
-- ChatGPT
-- Claude
-- Gemini
-- GitHub Copilot
-- OpenRouter
-- APIs de IA
-
----
-
-# 📌 Projetos em desenvolvimento
-
-- 🤖 Ferramentas baseadas em IA
-- 🌐 Plataforma RGWEB
-- 🎬 Biblioteca audiovisual
-- 🎮 Sistemas para Roblox
-- 🏝️ Ferramentas para The Sandbox
-- 📈 Automações para Marketing Digital
-
----
-
-# 🎯 Objetivo
-
-Construir produtos digitais escaláveis utilizando:
-
-- Inteligência Artificial
-- Desenvolvimento de Software
-- Marketing Digital
-- Automação
-- Audiovisual
-
----
-
+  
 📧 Contato:
 
 yodalkcodes@gmail.com
