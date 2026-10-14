@@ -1,14 +1,6 @@
 # 🚀 Atualmente
 
-- 🤖 Engenharia de Prompts
-- 🌐 Desenvolvimento Web
-- 🎬 Audiovisual
-- 📈 Marketing Digital
-- ⚙️ Automação de Processos
-
----
-
-# 💼 Serviços
+Olá meu nome é Robson, sou programador autônomo sempre procurando melhorar minhas habilidades buscando me superar continuamente, atualmente ofereço os seguintes serviços:
 
 ### 🌐 Desenvolvimento Web
 
@@ -21,16 +13,6 @@
 
 ---
 
-### 🤖 Inteligência Artificial
-
-- Engenharia de Prompts
-- Agentes de IA
-- Automações
-- Integração com APIs
-- Fluxos inteligentes
-
----
-
 ### 🎬 Audiovisual
 
 - Edição de vídeos
@@ -38,15 +20,6 @@
 - Shorts
 - Reels
 - Conteúdo para redes sociais
-
----
-
-### 🎮 Games
-
-Desenvolvimento de scripts e sistemas para:
-
-- Roblox Studio
-- The Sandbox
 
 ---
 
@@ -69,6 +42,7 @@ Desenvolvimento de scripts e sistemas para:
 - PHP
 - HTML
 - CSS
+- SQL
 
 ### Frameworks
 
@@ -82,12 +56,12 @@ Desenvolvimento de scripts e sistemas para:
 
 - Git
 - GitHub
-- Linux
+- Termux
 - Docker
 - VSCode
 - CapCut
 - Figma
-  
+
 📧 Contato:
 
 yodalkcodes@gmail.com
